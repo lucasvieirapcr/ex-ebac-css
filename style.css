@@ -1,0 +1,65 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 1em;
+}
+
+section {
+    margin-bottom: 2em;
+    padding: 1em;
+    border-radius: 8px;
+}
+
+/* Estilo para a seção de Entretenimento */
+#entretenimento {
+    background-color: #ffcccc;
+}
+
+#entretenimento h2 {
+    color: #cc0000;
+}
+
+/* Estilo para a seção de Tecnologia */
+#tecnologia {
+    background-color: #cce5ff;
+}
+
+#tecnologia h2 {
+    color: #003366;
+}
+
+article {
+    margin-bottom: 1em;
+}
+
+article h3 {
+    margin: 0;
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
